@@ -1,68 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Site feito em grupo com uso de HTML, CSS, Javascript, React.js, Styled-components, MUI e Axios.
 
-## Available Scripts
+O site funciona como deveria. Um bug identificado é o emoji do ninja no botão da tela inicial, que em alguns dispositivos não é renderizado corretamente.
 
-In the project directory, you can run:
+## Link do surge:
 
-### `npm start`
+http://abandoned-side.surge.sh
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- Home
+![Screenshot_1](https://user-images.githubusercontent.com/90166189/152693562-6ed7f91f-e963-4199-b17c-ff89ed214b01.jpg)
+- Cadastro
+![image](https://user-images.githubusercontent.com/83484522/152704435-0e1b3a33-d918-48e1-ab89-ae84a5809d04.png)
+- Catálogo
+![image](https://user-images.githubusercontent.com/83484522/152704411-5b2e8b0a-1ab9-4d9e-a237-5338a8445dc5.png)
+- Detalhes
+![image](https://user-images.githubusercontent.com/83484522/152704453-97217dc2-0cf3-4a62-ab13-3602bf4d355e.png)
+- Carrinho
+![image](https://user-images.githubusercontent.com/83484522/152704468-6b03a77a-d6f9-4262-a534-8d909849a5d5.png)
